@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 khoa's modified
 19191919191919191
+=======
+19191919191919191
+Phạm Ngọc Sơn
+
+$request->validate([
+            'staffname'=>'required',
+            'address' => 'required',
+            'department' => 'required',
+        ]);
+
+
+  $request->validate([
+
+        ]);
+
+>>>>>>> Modified file
